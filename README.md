@@ -1,2 +1,24 @@
 # bnan430-portfolio
-Portfolio projects from my data visualization course.
+
+Portfolio of work from **BNAN 430 — Data Visualization for Business**, University of Arizona, Eller College of Management (Fall 2026).
+
+## About
+
+This repository collects the visualizations and analyses I build over the course of the
+semester. The course focuses on turning business data into clear, decision-oriented
+visuals using the *Storytelling with Data* framework — context, visual selection,
+clutter reduction, focus, aesthetics, and narrative.
+
+## Contents
+
+Work in this repository will include:
+
+- **Excel** — data cleaning, lookups and joins, pivot tables, and chart design
+- **Tableau** — interactive dashboards and published visualizations
+- **Power BI** — business intelligence and DAX, completed through DataCamp
+- **Adobe Express** — data storytelling and product pitch design
+- **Generative AI tools** — used as an assistant throughout, cited per course policy
+
+## Author
+
+**Hugh Findlay** — B.S. candidate, Eller College of Management, University of Arizona
