@@ -19,6 +19,14 @@ Work in this repository will include:
 - **Adobe Express** — data storytelling and product pitch design
 - **Generative AI tools** — used as an assistant throughout, cited per course policy
 
+## Assignments
+
+- **Flex 3 - Advancing in Excel & Tableau Pt. 1.** Which single product subcategory should
+  Southwest Office Solutions put on a margin recovery plan?
+  [Published workbook](https://public.tableau.com/views/SouthwestOfficeSolutions-E-CommerceProfitabilityAnalysis/ExploratoryDashboard).
+  Next time I would build the discount bands as a calculated field in Tableau instead of a
+  column in Excel, so I could change the thresholds without reopening the workbook.
+
 ## Author
 
 **Hugh Findlay** — B.S. candidate, Eller College of Management, University of Arizona
