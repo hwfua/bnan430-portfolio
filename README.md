@@ -27,6 +27,10 @@ Work in this repository will include:
   Next time I would build the discount bands as a calculated field in Tableau instead of a
   column in Excel, so I could change the thresholds without reopening the workbook.
 
+- **Flex 8 — Advancing in Excel & Tableau, Pt. 3: Contactless Readiness.** Which non-contactless cards should Renee replace early rather than wait for scheduled renewal?
+  [Published workbook](https://public.tableau.com/app/profile/hugh.findlay/viz/Flex8_Contactless_Readiness_Findlay_Hugh_Reviewed/ExploratoryDashboard).
+  Next time I would order the groups from longest to shortest wait from the start.
+
 ## Author
 
 **Hugh Findlay** — B.S. candidate, Eller College of Management, University of Arizona
