@@ -31,6 +31,12 @@ Work in this repository will include:
   [Published workbook](https://public.tableau.com/app/profile/hugh.findlay/viz/Flex8_Contactless_Readiness_Findlay_Hugh_Reviewed/ExploratoryDashboard).
   Next time I would order the groups from longest to shortest wait from the start.
 
+- **Flex 9: Advancing in Excel & Tableau, Pt. 4: Wildcat Rewards Card Growth.**
+  Which customer group should Jordan Ellis target for the first Wildcat Rewards pilot?
+  [Published workbook](https://public.tableau.com/app/profile/hugh.findlay/viz/Flex9_Card_Growth_Findlay_Hugh_Public/ExploratoryDashboard).
+  Next time I would compare more possible pilot groups.
+
 ## Author
 
 **Hugh Findlay** — B.S. candidate, Eller College of Management, University of Arizona
+
